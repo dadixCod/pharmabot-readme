@@ -1,4 +1,5 @@
-💊 Pharmabot – AI-Powered Pharmaceutical Assistant
+# 💊 Pharmabot – AI-Powered Pharmaceutical Assistant
+
 Pharmabot is a modern, cross-platform mobile application built with Flutter that serves as a user-friendly interface for a sophisticated pharmaceutical AI.
 
 The app connects to a powerful Retrieval-Augmented Generation (RAG) backend, providing pharmacists and medical professionals with instant, accurate, and verifiable answers to complex drug-related queries. It's designed to be fast, reliable, and trustworthy.
