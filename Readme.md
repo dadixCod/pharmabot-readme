@@ -68,8 +68,8 @@ Pharmabot was built to solve this. By grounding a powerful LLM in a verifiable k
 📬 Contact Us
 This project was a collaborative effort. Feel free to reach out to us!
 
-[Elmehdi Elouissi]: [https://github.com/dadixcod] | [https://linkedin/in/dadixcod]
+- [Elmehdi Elouissi]: [Github](https://github.com/dadixcod) | [LinkedIn](https://www.linkedin.com/in/dadixcod)
 
-[Younes Chalabi]: [https://github.com/youneschalabiii] | [https://www.linkedin.com/in/younes-chalabi-a4900b30b/]
+- [Younes Chalabi]: [Github](https://github.com/youneschalabiii) | [LinkedIn](https://www.linkedin.com/in/younes-chalabi-a4900b30b/)
 
 👨‍💻 Developed by [Mehdi] & [Younes] with ❤️
