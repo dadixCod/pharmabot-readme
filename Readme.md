@@ -72,4 +72,4 @@ This project was a collaborative effort. Feel free to reach out to us!
 
 - <b>Younes Chalabi</b> : [Github](https://github.com/youneschalabiii) | [LinkedIn](https://www.linkedin.com/in/younes-chalabi-a4900b30b/)
 
-👨‍💻 Developed by [Mehdi] & [Younes] with ❤️
+👨‍💻 Developed by <b>Mehdi</b> & <b>Younes</b> with ❤️
